@@ -1,4 +1,4 @@
-# README - Assistente de Afastamentos e Retorno ao Trabalho
+# PEORA - PEOPLE CARE AI - Assistente de Afastamentos e Retorno ao Trabalho
 
 Aplicação front-end desenvolvida em React + TypeScript que simula um assistente inteligente para gestão de afastamentos, licenças médicas, benefícios previdenciários e retorno ao trabalho no contexto corporativo brasileiro.
 
